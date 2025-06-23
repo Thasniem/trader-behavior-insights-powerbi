@@ -6,8 +6,10 @@ Explore the relationship between trader performance and market sentiment using r
 
 ## 📊 Datasets Used
 1. **historical_data.csv**
+   
    Contains trade-level data (account, coin, execution price, size, leverage, PnL, etc.)
-2. **fear_greed_index.csv** –
+2. **fear_greed_index.csv**
+   
    Contains daily market sentiment (Fear/Greed classification)
 
 ## 🧪 Methodology
