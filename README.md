@@ -22,11 +22,9 @@ Explore the relationship between trader performance and market sentiment using r
 5. KPI Cards – Total PnL, Avg Leverage, Trade Volume
 6. Scatter Plot – Avg Leverage vs PnL (colored by Sentiment)
 7. Pie Chart – PnL Contribution by Sentiment
-8. Donut Chart – Trade Volume by Coin
-9. Decomposition Tree – PnL explained by Sentiment → Coin → Side
-10. Matrix/Heatmap – PnL by Date and Sentiment
-11. Q&A Visual – Interactive NLP query for insights
-12. Card Visuals – High-level snapshot values
+8. Decomposition Tree – PnL explained by Sentiment → Coin → Side
+9. Q&A Visual – Interactive NLP query for insights
+10. 10. Card Visuals – High-level snapshot values
 
 ## 🧠 Key Insights
 - Traders earned more on average during **Greed** sentiment days than during **Fear** days.
