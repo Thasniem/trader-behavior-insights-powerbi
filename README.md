@@ -1,4 +1,3 @@
-# This project was developed as part of the application process for the Junior Data Scientist role at PrimeTrade.ai / Bajarangs.
 
 # Impact of Market Sentiment on Trader Profitability - A Trader Behaviour Insights
 
@@ -40,8 +39,9 @@ Explore the relationship between trader performance and market sentiment using r
 - DAX Measures
 - Custom Visuals & Formatting
 
-## 📤 Submission Instructions
-This report is submitted as part of the application for the role:
+## Note
+This project was developed as part of the application for the role:
 **Junior Data Scientist – Trader Behavior Insights**
+
 
 
