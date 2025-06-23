@@ -5,8 +5,10 @@
 Explore the relationship between trader performance and market sentiment using real historical data, uncover hidden behavioral patterns, and extract insights to improve trading strategy.
 
 ## 📊 Datasets Used
-1. **historical_data.csv** – Contains trade-level data (account, coin, execution price, size, leverage, PnL, etc.)
-2. **fear_greed_index.csv** – Contains daily market sentiment (Fear/Greed classification)
+1. **historical_data.csv**
+   Contains trade-level data (account, coin, execution price, size, leverage, PnL, etc.)
+2. **fear_greed_index.csv** –
+   Contains daily market sentiment (Fear/Greed classification)
 
 ## 🧪 Methodology
 - Cleaned and preprocessed timestamps
@@ -24,7 +26,7 @@ Explore the relationship between trader performance and market sentiment using r
 7. Pie Chart – PnL Contribution by Sentiment
 8. Decomposition Tree – PnL explained by Sentiment → Coin → Side
 9. Q&A Visual – Interactive NLP query for insights
-10. 10. Card Visuals – High-level snapshot values
+10. Card Visuals – High-level snapshot values
 
 ## 🧠 Key Insights
 - Traders earned more on average during **Greed** sentiment days than during **Fear** days.
@@ -40,6 +42,8 @@ Explore the relationship between trader performance and market sentiment using r
 ## Note
 This project was developed as part of the application for the role:
 **Junior Data Scientist – Trader Behavior Insights**
+
+
 
 
 
